@@ -1,16 +1,21 @@
-## Hi there 👋
+# DiziGoo
 
-<!--
-**dizigoo/dizigoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital marketing, websites, apps, software and AI automation from Bareilly, India. Serving businesses across India and worldwide since 2019.
 
-Here are some ideas to get you started:
+## What we do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website, mobile app and custom software development. SEO, GEO (AI search visibility), Google and Meta ads, social media, UGC and AI video ads. Google Business Profile and review management. White-label services for agencies. DGA CRM + ERP for leads, GST billing, inventory, HR and WhatsApp automation.
+
+## Links
+
+Website: https://dizigoo.com
+
+Services: https://dizigoo.com/services/
+
+DGA CRM + ERP: https://dizigoo.com/services/dga-crm-erp/
+
+Guides: https://dizigoo.com/blog/
+
+Contact: contact@dizigoo.com | +91 79838 87305
+
+Office: 1st Floor, Krishna Janki Place, Rampur Garden, Bareilly, Uttar Pradesh 243001
